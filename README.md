@@ -10,4 +10,6 @@ Dishwasher
 
 **Bosch Ascenta Series**: Tensorflow Math tutorial
 
-**Bosch 800 Series**: RNN tutorial
+**Maytag Stainless Steel Tub**: MLP from scratch tutorial
+
+<**Bosch 800 Series**: MLP from scratch answers> (Hidden... hehehe...)
