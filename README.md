@@ -12,4 +12,4 @@ Dishwasher
 
 **Maytag Stainless Steel Tub**: MLP from scratch tutorial
 
-<**Bosch 800 Series**: MLP from scratch answers> (Hidden... hehehe...)
+<!-- **Bosch 800 Series**: MLP from scratch answers -->
