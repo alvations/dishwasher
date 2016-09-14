@@ -4,7 +4,7 @@ Dishwasher
 
 **LG Studio**: Gradient Descent Tutorial
 
-**GE Profile**: Gradient Descent Answers
+<!--- **GE Profile**: Gradient Descent Answers -->
 
 **Electrolux IQ-Touch**: MNIST MLP tutorial
 
